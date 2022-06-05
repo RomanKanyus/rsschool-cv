@@ -1,5 +1,5 @@
 # Roman Kanyus
-![My photo](Images\photo_2022-06-05_21-00-01.jpg)
+![My photo](Images/photo_2022-06-05_21-00-01.jpg)
 
 ## Junior Frontend Developer
 
@@ -44,7 +44,7 @@ function sum(a,b){
 
 **Languages**
 
--English ![This is an image](Images\level-a2-e1511857348590.jpg) 
+-English ![This is an image](Images/level-a2-e1511857348590.jpg) 
 
 -Polish - Basic
 
