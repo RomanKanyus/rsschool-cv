@@ -35,33 +35,11 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 **Task:**
 
-***Write a function that writes a number in a given range to the console, if it is successfully divisible or not divisible with or without remainder, depending on the parameters.***
-  ```
-  function getNumbersModulatordBy(modulus, loggerCallback) {
- return function(start, end) {
-   loggerCallback({ message: "Конфигурация", config: configuration });
-   loggerCallback({ message: "Полученный модулятор", modulus: modulus });
-   loggerCallback({
-     message: "Полученный start и end",
-     start: start,
-     end: end
-   });
-
-   while (start <= end) {
-\     if (start % modulus == configuration.isEntry) {
-       loggerCallback(start);
-     }
-     start++;
-   }
- };
+***Write a function that do sum of two numbers***
+```
+function sum(a,b){
+    return a+b;
 }
-
-/var configuration = {
- modulus: 10,
- isEntry: false,
- start: 45,
- end: 68
-};
 ```
 
 **Languages**
